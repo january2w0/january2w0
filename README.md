@@ -7,7 +7,6 @@
 ## 🚀 Activities
 
 - **Solved.ac**: [@lwyoon](https://solved.ac/profile/lwyoon)
-
 <br/>
 
 ## 🛠 Tech Stack
