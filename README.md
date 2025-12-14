@@ -15,6 +15,6 @@
 
 ## 🚀 About Me & Activities
 
-- **Solved.ac**: [@[본인백준ID]](https://solved.ac/profile/본인백준ID) 
+- **Solved.ac**: (@[lwyoon](https://solved.ac/profile/lwyoon)) 
 
 <br/>
