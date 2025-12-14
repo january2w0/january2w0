@@ -15,6 +15,6 @@
 
 ## 🚀 About Me & Activities
 
-- **Solved.ac**: [@lwyoon](https://solved.ac/profile/lwyoon)) 
+- **Solved.ac**: [@lwyoon](https://solved.ac/profile/lwyoon)
 
 <br/>
