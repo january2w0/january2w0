@@ -15,13 +15,6 @@
 
 ## 🚀 About Me & Activities
 
-개발자로서의 활동 내역과 알고리즘 문제 해결 기록입니다.
-
-- **Blog**: [[Velog 아이콘 없이 텍스트 링크로 깔끔하게]](https://velog.io/@본인아이디)
-- **Algorithm**: 꾸준히 알고리즘 문제를 풀며 논리적 사고력을 키우고 있습니다.
-  - **Solved.ac**: [@[본인백준ID]](https://solved.ac/profile/본인백준ID) 
-  - (현재 **백준** 문제를 풀며 `Gold/Platinum` 티어를 목표로 하고 있습니다.)
-- **Project**: 파이썬을 활용한 주식 트레이딩 시스템 구축 프로젝트를 기획 중입니다.
-- **Contact**: [이메일 주소 입력]
+- **Solved.ac**: [@[본인백준ID]](https://solved.ac/profile/본인백준ID) 
 
 <br/>
